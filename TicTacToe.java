@@ -8,7 +8,6 @@ public class TicTacToe {
    * Create a program for playing tic-tac-toe.
    * The program prompts two players to enter an X token and O token alternately. 
    * Whenever a token is entered, the program redisplays the board on the console and determines the status of the game (win, draw, or continue).
-   * @param args
    */
 
   public static void main(String[] args) {
